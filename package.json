@@ -1,0 +1,20 @@
+{
+  "name": "superfluid-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@superfluid-finance/sdk-core": "^0.5.7",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "@superfluid-finance/ethereum-contracts": "^1.4.2",
+    "@openzeppelin/contracts-upgradeable": "^4.6.0"
+  }
+}
